@@ -6,15 +6,21 @@
                 if (path.endsWith('index.html')) {
                     path = path.substr(path, path.length - 'index.html'.length);
                 }
-                var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'map.json';
-                document.getElementById('mapLink').href = url;
-                document.getElementById('mapLink').innerText = url;
+                var urlPub = 'https://play.workadventu.re/_/global/'+window.location.host+path+'pub'+path+map.json';
+                document.getElementById('mapLinkPub').href = urlPub;
+                document.getElementById('mapLinkPub').innerText = urlPub;
+				
+				var urlStarterKit = 'https://play.workadventu.re/_/global/'+window.location.host+path+'starter-kit'+path+map.json';
+                document.getElementById('mapLinkStarterKit').href = urlStarterKit;
+                document.getElementById('mapLinkStarterKit').innerText = urlStarterKit;
             };
         </script>
     </head>
     <body>
         This website contains a map for <a href="https://workadventu.re">Workadventu.re</a>.
         <br/>
-        You can access this map at <a id="mapLink" href=""></a>
+        Pour accéder au pub : <a id="mapLinkPub" href=""></a>
+		<br/>
+		Pour accéder au starter-kit : <a id="mapLinkStarterKit" href=""></a>
     </body>
 </html>
