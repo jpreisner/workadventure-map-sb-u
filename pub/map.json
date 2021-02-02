@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/codename.html"
+                 "value":"https:\/\/jpreisner.github.io\/workadventure-map-sb-u\/pub\/codename.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
