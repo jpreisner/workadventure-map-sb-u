@@ -7,10 +7,6 @@
 | Pub         | https://play.workadventu.re/_/global/jpreisner.github.io/workadventure-map-sb-u/pub/map.json         |
 | Starter Kit | https://play.workadventu.re/_/global/jpreisner.github.io/workadventure-map-sb-u/starter-kit/map.json |
 
-- the [Tiled editor](https://www.mapeditor.org/) software
-- "tiles" (i.e. images) to create your map (this starter kit provides a good default tileset for offices)
-- a web-server to serve your map (this starter kit proposes to use Github static pages as a web-server which is both free and performant)
-
 ## Liens utiles
 
 - Le logiciel pour construire une map : [Tiled](https://www.mapeditor.org/)
