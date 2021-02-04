@@ -65,7 +65,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"start-layer",
+                 "name":"startLayer",
                  "type":"bool",
                  "value":true
                 }],
@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bye"
+                 "value":"bye-bye :D"
                 }],
          "type":"tilelayer",
          "visible":true,
