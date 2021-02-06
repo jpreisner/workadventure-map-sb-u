@@ -1345,11 +1345,11 @@
         {
          "columns":1,
          "firstgid":4223,
-         "image":"tilesets\/pokeball_resized.png",
+         "image":"tilesets\/pokeball.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
-         "name":"pokeball_resized",
+         "name":"pokeball",
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
